@@ -21,6 +21,10 @@
 <div>
 :woman_technologist: About Me :
 
+- 💻 I upload youtube video for fun, so my youtube chanele is'nt about programming.
+
+- 😄 my real name is adar albajari, adar is a jewish month.  
+
 - :telescope: I’m currently learning next js .
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
